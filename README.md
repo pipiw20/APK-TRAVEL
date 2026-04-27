@@ -21,12 +21,6 @@ Aplikasi mobile berbasis React Native untuk mencatat aktivitas harian pengguna.
 
 ---
 
-## 📸 Screenshot
-
-(Tambahkan screenshot di sini)
-
----
-
 ## 🚀 Cara Menjalankan
 
 ```bash
